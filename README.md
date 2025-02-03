@@ -1,2 +1,2 @@
-# project_menagment
+# ProjectMenagment
 Web-based project management
